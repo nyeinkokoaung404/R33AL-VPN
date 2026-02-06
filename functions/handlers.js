@@ -3,7 +3,7 @@
 // Channel: https://t.me/premium_channel_404
 ///////////////////////////////////////////////
 
-const ADMIN_IDS = [8475105021, 7500643946];
+const ADMIN_IDS = [8475105021, 7500643946, 1273841502];
 
 export async function handleUpdate(update, env) {
     if (!update.message) return;
